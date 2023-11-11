@@ -15,7 +15,7 @@
 // • Rasel comel
 // • Xtreshe (Beban)
 // • Dll
-
+// • CM SAFYAN
 import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
@@ -25,11 +25,11 @@ import moment from 'moment-timezone'
 
 /*==============USER-INFO==============*/
 global.owner = [
-  ['8801853262586', 'ꜱʟᴀꜱʜᴇʀ ᴏꜰꜰɪᴄɪᴀʟ', true], 
-  ['put your number', 'your-name', true] 
+  ['03044250023', 'CM SAFYAN ᴏꜰꜰɪᴄɪᴀʟ', true], 
+  ['03044250023', 'SAFYAN', true] 
 ] 
 
-global.mods = ['put-your-number','8801853262586'] //Don't replace this,If you want to add someone add any dev
+global.mods = ['put-your-number','03044250023'] //Don't replace this,If you want to add someone add any dev
 global.prems = ['put-premium-user-number','']
 global.nomorbot = 'your-bot-number' //Change it to your own
 global.nomorown = 'owner-number' //Change it to your own
@@ -71,15 +71,16 @@ let wibh = moment.tz('Asia/Dhaka').format('HH')
 /*============== SOCIAL ==============*/
 
 // if you don't have it, type "-" or leave it alone so that there are credits :v
-global.sig = 'https://instagram.com/sla.sher_' //Link Instagrammu
-global.sgh = 'https://github.com/X-S-L-A-S-H-E-R/X-GEN-MD' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/Iah40dk4H2EClu9HqlCxdH'
+global.sig = 'INSTAURL' //Link Instagrammu
+global.sgh = 'GITHUBURL' //Link Githubmu
+global.sgc = 'WHATSAPPURL'
 global.sdc = '-' //Fill it out using the Discord link, if there is one, just leave it
 global.snh = 'https://nhentai.net/g/HaramTod' //Hmmm, This is up to you to fill in :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085736178354' //Nomor Danamu
-global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
+global.pdana = '03044250023' //
+MUHAMMAD ABU SAFYAN
+global.ppulsa = '03044250023' //EASYPAISA
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 
@@ -118,14 +119,14 @@ global.APIKeys = { // APIKey Here
 // The word APIKEY is filled with your own apikey, by buying it on the website
 
 /*============== WATERMARK ==============*/
-global.wm = '「 x-ɢᴇɴ-ᴍᴅ 」' //Main Watermark
+global.wm = '「 CM-SAFYAN-BOT 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Slasher_Ser- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = 'x-ɢᴇɴ-ᴍᴅ'
-global.footerTXT = `x-ɢᴇɴ-ᴍᴅ • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +880 1853 262586`
+global.wm3 = 'CM-SAFYAN-BOT'
+global.footerTXT = `CM-SAFYAN • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: 03044250023.`
 global.fig = `Follow me on instagram:\n\t\tinstagram.com/sla.sher_`
 global.botdate = `🛑 Date: ${week} ${date}`
 global.bottime = `🧑‍💻 Time : ${wktuwib}`
-global.titlebot = '🎋 ┊ x-ɢᴇɴ ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
+global.titlebot = '🎋 ┊CM-BOT-S ᴡʜᴀᴛsᴀᴘᴘ'
 global.author = global.wm
 global.logo = 'https://i.ibb.co/jLnr3K9/20231025-195821.jpg'
 
@@ -153,7 +154,7 @@ global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+880 1853 262586'
+global.phn = '03044250023'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -169,10 +170,10 @@ global.thumbdoc = 'https://i.ibb.co/jLnr3K9/20231025-195821.jpg'
 global.fsizedoc = '5644' // default 10TB
 global.fpagedoc = '999'
 
-/*=========== HIASAN ===========*/
+/*=========== CMSAFYAN ===========*/
 // DEFAULT MENU
 global.dmenut = 'ଓ═┅═━–〈' //top
-global.dmenub = '┊🇧🇩' //body
+global.dmenub = '┊🇵🇰' //body
 global.dmenub2 = '┊' //body for info cmd on Default menu
 global.dmenuf = '┗––––––––––✦' //footer
 
